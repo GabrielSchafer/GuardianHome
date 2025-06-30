@@ -37,7 +37,7 @@ Durante o projeto, desenvolvemos habilidades em:
 - Isabela Cunha
 - Gabriel Heyde
 - Pedro Thomas
-- Jardel Nicolas
+- Jardel Mathias
 - Pedro Pedroso
 
   
